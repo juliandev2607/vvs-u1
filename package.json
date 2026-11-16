@@ -1,0 +1,21 @@
+{
+  "name": "vvs-u1-auditoria-estatica",
+  "version": "1.0.0",
+  "description": "Auditoría estática del módulo de descuentos (VVS, Unidad 1)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.39.5",
+    "eslint": "^9.39.5",
+    "globals": "^17.14.0"
+  }
+}
