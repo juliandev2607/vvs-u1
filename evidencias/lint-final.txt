@@ -1,0 +1,10 @@
+
+> vvs-u1-auditoria-estatica@1.0.0 lint
+> eslint src
+
+
+/home/juliandev/Code/ups/repositorio_VVS_U1/src/descuentos.js
+  7:5  warning  Unexpected console statement  no-console
+
+✖ 1 problem (0 errors, 1 warning)
+
